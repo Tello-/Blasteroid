@@ -1,3 +1,7 @@
 ﻿  main.cpp
-  C:\Users\Josh\source\GameDev\Blasteroid\Ship.h(30) : warning C4172: returning address of local variable or temporary
-  Blasteroid.vcxproj -> C:\Users\Josh\source\GameDev\Blasteroid\x64\Debug\Blasteroid.exe
+  Projectile.cpp
+  Ship.cpp
+  Generating Code...
+C:\Users\Josh\Desktop\Coding\GitGames\Blasteroid\Ship.cpp(67,17): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Josh\Desktop\Coding\GitGames\Blasteroid\Ship.h(30): warning C4172: returning address of local variable or temporary
+  Blasteroid.vcxproj -> C:\Users\Josh\Desktop\Coding\GitGames\Blasteroid\x64\Debug\Blasteroid.exe
